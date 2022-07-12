@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on Front-End;
 - 🌱 I’m currently learning HTML, CSS and JavaScript;
-- 📫 How to reach me: anagsander@gmail.com
-- 😄 Pronouns: she/her;
 - 🐱 Name of my cat: Mia;
 
 ##
