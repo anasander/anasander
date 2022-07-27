@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Front-End;
 - 🌱 I’m currently learning HTML, CSS and JavaScript;
-- 🐱 Name of my cat: Mia;
+- 🐱 My cat's name: Mia;
 
 ##
 
