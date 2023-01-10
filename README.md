@@ -1,7 +1,7 @@
 ### Hello, I'm Ana! 👋
 
 - 🔭 I’m currently working on Front-End;
-- 🌱 I’m currently learning HTML, CSS and JavaScript;
+- 🌱 I’m currently learning React;
 - 🐱 My cat's name: Mia;
 
 ##
