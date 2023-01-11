@@ -1,8 +1,10 @@
 ### Hello, I'm Ana! 👋
 
-- 🔭 I’m currently working on Front-End;
-- 🌱 Currently learning React;
-- 🐱 My cat's name: Mia;
+- 🔭 I’m currently working on Front-End and have already created some stuff here on GitHub!;
+- 🌱 Currently learning React [/// 18% ///];
+- 🐱 My cat's name: Mia. She's the most beautiful creature in the entire world;
+- 🙌 Looking for job opportunities in the area. Let's work together!;
+- 📞 You can always contact me through my social media and/or email;
 
 ##
 
