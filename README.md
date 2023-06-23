@@ -10,7 +10,7 @@
 
 <div align="center">
 <!--   <a href="https://github.com/anasander"> -->
-  <img align="center" width="800px" alt="Ana-stats" src="https://github-readme-stats.vercel.app/api?username=anasander&show_icons=true&theme=tokyonight">
+  <img align="center" width="600px" alt="Ana-stats" src="https://github-readme-stats.vercel.app/api?username=anasander&show_icons=true&theme=tokyonight">
 </div>
 
 <div style="display: inline_block"><br>
