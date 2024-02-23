@@ -10,7 +10,6 @@
 
 <div align="center">
   <a href="https://github.com/anasander">
-  <img align="center" width="50%" height="auto" alt="Ana-stats" src="https://github-readme-stats.vercel.app/api?username=anasander&show_icons=true&theme=tokyonight">
   <img align="center" width="50%" height="auto" alt="Ana-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasander&layout=compact&theme=tokyonight">
 </div>
 
