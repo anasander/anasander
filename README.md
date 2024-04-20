@@ -1,9 +1,8 @@
 ### Hello, I'm Ana! 👋
 
-- 💻 I’m currently working on Front-End and have already created some stuff here on GitHub!;
 - 📝 Learning: TypeScript on Origamid!;
 - 🐱 My cat's name: Mia. She's the most beautiful creature in the entire world;
-- 🙌 Looking for job opportunities in the area. Let's work together!;
+- 💻 Working as a Web Designer;
 - 📞 You can always contact me through my social media and/or email;
 
 ##
