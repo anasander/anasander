@@ -3,7 +3,6 @@
 - 👩‍💻 Working full-time as a Web Designer at Tindin;
 - 📝 Learning: TypeScript on Origamid!;
 - 🐱 My cat's name: Mia. She's the most beautiful creature in the entire world;
-- 💻 Working as a Web Designer;
 - 📞 You can always contact me through my social media and/or email;
 
 ##
