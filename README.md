@@ -5,6 +5,11 @@
 - 🐱 My cat's name: Mia. She's the most beautiful creature in the entire world;
 - 📞 You can always contact me through my social media and/or email;
 
+<div style="display: inline_block" align="center">
+  <img align="center" width="64" height="64" alt="sprite-ana" src="https://github.com/user-attachments/assets/bf78dda1-fce8-4250-81ee-52bca80de8c5" />
+  <img align="center" width="64" height="64" alt="sprite-mia" src="https://github.com/user-attachments/assets/8d4dc7c2-18cd-4f24-94d2-1756416c8a62" />
+</div>
+
 ##
 
 <div align="center">
