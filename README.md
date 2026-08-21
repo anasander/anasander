@@ -1,6 +1,6 @@
 ### Hello, I'm Ana! 👋
 
-- 👩‍💻 Always open to work in new and interesting projects!;
+- 👩‍💻 Always open to work on new and interesting projects!;
 - 📝 Learning: Systems Analysis and Development at Toledo Prudente;
 - 🐱 My cat's name: Mia. She's the most beautiful creature in the entire world;
 - 📞 You can always contact me through my social media and/or email;
